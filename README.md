@@ -26,6 +26,7 @@ This application allows users to translate text into multiple languages with aut
 
 ## 📸 Sample Usage
 Enter language code: hi
+adfwrbgwr
 Enter text: Hello world
 
 
