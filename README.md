@@ -25,9 +25,13 @@ This application allows users to translate text into multiple languages with aut
 ---
 
 ## 📸 Sample Usage
-Enter language code: hi                                                                                                                              Enter text: Hello world
+Enter language code: hi
+
+Enter text: Hello world
+
 
 Translated Text: नमस्ते दुनिया
+
 Detected Source Language: en
 
 ## ⚙️ Installation Guide
